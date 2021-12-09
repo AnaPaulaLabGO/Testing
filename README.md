@@ -9,3 +9,4 @@
 test2....testestetestestetsteetse
 Thrusday is today
 Tomorrow friday
+And then Saturday and Sunday
